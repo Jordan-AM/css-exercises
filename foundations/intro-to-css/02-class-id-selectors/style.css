@@ -1,0 +1,17 @@
+.aClass{
+    background-color: #ff006a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#aID{
+    color: rgb(100, 100, 255);
+    font-size: 36px;
+}
+.aClass.cooler{
+    font-size: 24px;
+}
+
+#anotherID{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
