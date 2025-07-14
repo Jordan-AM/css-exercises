@@ -1,0 +1,13 @@
+.firstButn{
+    background-color: black;
+    color: white;
+}
+
+.secondButn{
+    background-color: yellow;
+}
+
+.firstButn, .secondButn{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
